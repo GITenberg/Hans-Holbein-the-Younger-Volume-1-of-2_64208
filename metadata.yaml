@@ -1,0 +1,21 @@
+_repo: Hans-Holbein-the-Younger-Volume-1-of-2_64208
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chamberlain, Arthur B. (Arthur Bensley)
+    deathdate: 1931
+    gutenberg_agent_id: '49932'
+    url: http://www.gutenberg.org/2009/agents/49932
+description: ''
+gutenberg_issued: '2021-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hans Holbein the Younger, Volume 1 (of 2)
+url: http://www.gutenberg.org/ebooks/64208
